@@ -1,0 +1,13 @@
+/home/christopher/Projects/Workspace/spring-boot-data-jpa/src/main/java/com/bolsadeideas/springboot/datajpa/app/models/service/IClienteService.java
+/home/christopher/Projects/Workspace/spring-boot-data-jpa/src/main/java/com/bolsadeideas/springboot/datajpa/app/util/paginator/PageRender.java
+/home/christopher/Projects/Workspace/spring-boot-data-jpa/src/main/java/com/bolsadeideas/springboot/datajpa/app/models/entity/Cliente.java
+/home/christopher/Projects/Workspace/spring-boot-data-jpa/src/main/java/com/bolsadeideas/springboot/datajpa/app/models/entity/Factura.java
+/home/christopher/Projects/Workspace/spring-boot-data-jpa/src/main/java/com/bolsadeideas/springboot/datajpa/app/models/entity/Producto.java
+/home/christopher/Projects/Workspace/spring-boot-data-jpa/src/main/java/com/bolsadeideas/springboot/datajpa/app/MvcConfig.java
+/home/christopher/Projects/Workspace/spring-boot-data-jpa/src/main/java/com/bolsadeideas/springboot/datajpa/app/SpringBootDataJpaApplication.java
+/home/christopher/Projects/Workspace/spring-boot-data-jpa/src/main/java/com/bolsadeideas/springboot/datajpa/app/controllers/ClienteController.java
+/home/christopher/Projects/Workspace/spring-boot-data-jpa/src/main/java/com/bolsadeideas/springboot/datajpa/app/util/paginator/PageItem.java
+/home/christopher/Projects/Workspace/spring-boot-data-jpa/src/main/java/com/bolsadeideas/springboot/datajpa/app/models/service/ClienteServiceImpl.java
+/home/christopher/Projects/Workspace/spring-boot-data-jpa/src/main/java/com/bolsadeideas/springboot/datajpa/app/controllers/FacturaController.java
+/home/christopher/Projects/Workspace/spring-boot-data-jpa/src/main/java/com/bolsadeideas/springboot/datajpa/app/models/entity/ItemFactura.java
+/home/christopher/Projects/Workspace/spring-boot-data-jpa/src/main/java/com/bolsadeideas/springboot/datajpa/app/models/dao/IClienteDao.java

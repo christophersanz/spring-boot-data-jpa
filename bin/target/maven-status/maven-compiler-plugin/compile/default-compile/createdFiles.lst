@@ -1,0 +1,13 @@
+com/bolsadeideas/springboot/datajpa/app/controllers/ClienteController.class
+com/bolsadeideas/springboot/datajpa/app/util/paginator/PageRender.class
+com/bolsadeideas/springboot/datajpa/app/models/entity/Factura.class
+com/bolsadeideas/springboot/datajpa/app/models/dao/IClienteDao.class
+com/bolsadeideas/springboot/datajpa/app/models/entity/Cliente.class
+com/bolsadeideas/springboot/datajpa/app/models/entity/ItemFactura.class
+com/bolsadeideas/springboot/datajpa/app/controllers/FacturaController.class
+com/bolsadeideas/springboot/datajpa/app/models/entity/Producto.class
+com/bolsadeideas/springboot/datajpa/app/models/service/ClienteServiceImpl.class
+com/bolsadeideas/springboot/datajpa/app/util/paginator/PageItem.class
+com/bolsadeideas/springboot/datajpa/app/MvcConfig.class
+com/bolsadeideas/springboot/datajpa/app/models/service/IClienteService.class
+com/bolsadeideas/springboot/datajpa/app/SpringBootDataJpaApplication.class

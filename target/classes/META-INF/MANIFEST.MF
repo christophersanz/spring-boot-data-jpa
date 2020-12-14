@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: spring-boot-jpa
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: christopher
+Implementation-Vendor-Id: com.bolsadeideas.springboot.datajpa.app
+Build-Jdk: 1.8.0_202
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/spring-boot-jpa
+Created-By: Maven Integration for Eclipse
+
